@@ -1,0 +1,17 @@
+body {
+	background-color: #e4edf4;
+	font-family: sans-serif;
+	
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #222222
+}
+.rc-slider-rail{
+  background-color: #CCCCCC;
+}
+.rc-slider-dot{
+  background-color: #555555;
+}
+.rc-slider-handle{
+  background-color: #555555;
+}
