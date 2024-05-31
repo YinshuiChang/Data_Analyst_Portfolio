@@ -20,6 +20,19 @@
 ### Dataset used:
 * Copernicus Climate Change Service, Climate Data Store, (2021): Fire radiative power and active fire pixels from 2020 to present derived from satellite observation. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.95afd6ae 
 * Copernicus Climate Change Service (2021): Precipitation monthly and daily gridded data from 1979 to present derived from satellite measurement. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.c14d9324 
+### Screenshots
+* Dashboard Visualisation for Fire Reactive Pixels \
+<img src="screenshots/YC02_d.png" width="400">
+<img src="screenshots/YC02_m.png" width="400">
+* Dashboard Visualisation for Fire Reactive Power and Precipitation \
+<img src="screenshots/YC08.png" width="400">
+* Dashboard Visualisation of Precipitation vor Time \
+<img src="screenshots/YC06.png" width="400">
+* Dashboard Visualisaion of global Precipitation \
+<img src="screenshots/YC07.png" width="400">
+* Predicting missing data using CNN \
+<img src="screenshots/YC_ML.png" width="400">
+
 ## Contacts
 * LinkedIN: [in/yinshuichang/](https://www.linkedin.com/in/yinshuichang/)
 * Email: [yinshui.chang@gmail.com](mailto:yinshui.chang@gmail.com)
